@@ -7,7 +7,7 @@
 ## Assignment 1 Checklist
 
 - [x] BF
-- [ ] BH
+- [x] BH
 - [ ] BS
 - [ ] BE
 - [ ] EF
